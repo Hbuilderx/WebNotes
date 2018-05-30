@@ -23,7 +23,7 @@
 		<script>
 			var one=document.getElementById("one");
 			one.onclick=function(){
-			one.style.width="300px"; 
+			   one.style.width="300px"; 
 			}
 		</script>
 	</body>
